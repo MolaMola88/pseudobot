@@ -1,1 +1,1 @@
-pseudobot nasceu
+import os
